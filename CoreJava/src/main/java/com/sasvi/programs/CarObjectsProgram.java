@@ -14,13 +14,18 @@ public class CarObjectsProgram {
 		// Create Car objects
 		Car mazda = new Car();
 		mazda.setCompany("mazda");
+		mazda.setCompany("mazda");
 		mazda.setModel("cx-5");
 		mazda.setPrice(20000);
+
+		Car.setObjectsCount(1);
 
 		Car rdx = new Car();
 		rdx.setCompany("accura");
 		rdx.setModel("rdx");
 		rdx.setPrice(30000);
+
+		Car.setObjectsCount(2);
 
 		System.out.println(mazda.getPrice());
 		System.out.println(mazda.getCompany());
