@@ -14,6 +14,8 @@ public class VariablesAndMethodsTest2 {
 
 		printNumbers1ToN(50);
 
+		printNameRavi();
+
 	}
 
 	// methods

@@ -8,14 +8,6 @@ public class VariablesAndMethodsTest {
 
 		// variables
 
-		String course = "java";
-		int bookCost = 20;
-		int zipCode = 75234;
-		boolean saswithBoy = true;
-		float tablePrice = 25.5f;
-
-		System.out.println(course);
-
 		Car mazdaCar = new Car();
 		mazdaCar.setCompany("mazda");
 		mazdaCar.setModel("cx-5");
@@ -74,6 +66,15 @@ public class VariablesAndMethodsTest {
 				System.out.println(i);
 			}
 		}
+
+		System.out.println("ravi");
+		System.out.println("ravi");
+		System.out.println("ravi");
+		System.out.println("ravi");
+		System.out.println("ravi");
+		System.out.println("ravi");
+		System.out.println("ravi");
+		System.out.println("ravi");
 
 	}
 

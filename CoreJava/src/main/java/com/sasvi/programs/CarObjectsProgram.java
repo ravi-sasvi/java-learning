@@ -29,6 +29,15 @@ public class CarObjectsProgram {
 
 		System.out.println(mazda.getPrice());
 		System.out.println(mazda.getCompany());
+		System.out.println(mazda.getPrice());
+
+		mazda.displayCarInfo();
+
+		rdx.displayCarInfo();
+
+		System.out.println(rdx.getPrice());
+		System.out.println(rdx.getCompany());
+		System.out.println(rdx.getPrice());
 
 	}
 

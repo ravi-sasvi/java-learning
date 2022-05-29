@@ -56,4 +56,11 @@ public class Car {
 		Car.objectsCount = objectsCount;
 	}
 
+	public void displayCarInfo() {
+		System.out.println("comapnay=" + this.company);
+		System.out.println("model=" + this.model);
+		System.out.println("price=" + this.price);
+
+	}
+
 }
